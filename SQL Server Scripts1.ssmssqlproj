@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="5query.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>5query.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="MDXQuery9.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>MDXQuery9.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="query 5.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>query 5.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="sql assingment studnet.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sql assingment studnet.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="sql assingmwent'.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sql assingmwent'.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="sql query 1.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sql query 1.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="sql qyery 4.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sql qyery 4.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="sql qyery3.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sql qyery3.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="sql test1 datatbase.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sql test1 datatbase.mdx</FullPath>
+        </FileNode>
+        <FileNode Name="sql.mdx">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sql.mdx</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
